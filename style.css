@@ -1,0 +1,23 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    background-color: aquamarine;
+    border: 2px solid burlywood;
+    margin-top: 100px;
+}
+
+#jol{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
